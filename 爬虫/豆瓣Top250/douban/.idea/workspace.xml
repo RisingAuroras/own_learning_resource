@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26d38256-92e1-4dbf-9bc0-d608279e79f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spider.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/test_bilibili.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1nm1R5vmNF97fmCrplOfPNzyl4f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDE\python\item\douban\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spider">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testBs4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testBs4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testMeizi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testMeizi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testSqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="textXwlt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/textXwlt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.testSqlite" />
+        <item itemvalue="Python.testMeizi" />
+        <item itemvalue="Python.textXwlt" />
+        <item itemvalue="Python.testBs4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d38256-92e1-4dbf-9bc0-d608279e79f5" name="Default Changelist" comment="" />
+      <created>1611980441537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611980441537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="351" width="537" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642909465950">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="575" y="351" width="537" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1642909465950" />
+    <state x="435" y="264" key="DBNavigator.DatasetFilterDialog" timestamp="1642909501190">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="435" y="264" key="DBNavigator.DatasetFilterDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1642909501190" />
+    <state x="708" y="246" key="DBNavigator.ExportDataDialog" timestamp="1642910025286">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="708" y="246" key="DBNavigator.ExportDataDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1642910025286" />
+    <state x="311" y="156" key="DBNavigator.ProjectSettingsDialog" timestamp="1642909490754">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="311" y="156" key="DBNavigator.ProjectSettingsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1642909490754" />
+    <state x="655" y="391" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1642906603708">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="655" y="391" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1642906603708" />
+    <state x="561" y="256" key="FileChooserDialogImpl" timestamp="1642909486662">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="561" y="256" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1642909486662" />
+    <state width="1360" height="226" key="GridCell.Tab.0.bottom" timestamp="1642919547862">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1360" height="226" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1642919547862" />
+    <state width="1360" height="226" key="GridCell.Tab.0.center" timestamp="1642919547862">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1360" height="226" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1642919547862" />
+    <state width="1360" height="226" key="GridCell.Tab.0.left" timestamp="1642919547862">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1360" height="226" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1642919547862" />
+    <state width="1360" height="226" key="GridCell.Tab.0.right" timestamp="1642919547862">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1360" height="226" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1642919547862" />
+    <state width="1362" height="313" key="GridCell.Tab.1.bottom" timestamp="1642344701587">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1362" height="313" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1642344701587" />
+    <state width="1362" height="313" key="GridCell.Tab.1.center" timestamp="1642344701586">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1362" height="313" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1642344701586" />
+    <state width="1362" height="313" key="GridCell.Tab.1.left" timestamp="1642344701586">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1362" height="313" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1642344701586" />
+    <state width="1362" height="313" key="GridCell.Tab.1.right" timestamp="1642344701586">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1362" height="313" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1642344701586" />
+    <state x="257" y="313" key="SettingsEditor" timestamp="1642910172208">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="257" y="313" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1642910172208" />
+    <state x="512" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1646804269564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="512" y="373" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1646804269564" />
+    <state x="491" y="277" width="672" height="678" key="search.everywhere.popup" timestamp="1642287547288">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="491" y="277" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1642287547288" />
+  </component>
+</project>
